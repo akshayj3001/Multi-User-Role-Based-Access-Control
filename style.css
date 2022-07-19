@@ -1,0 +1,20 @@
+
+	.nav-links {
+		align-items: center;
+		display: flex;
+		justify-content:space-around;
+		min-height: 6vh;
+		background-color: #1c2d47;
+		font-family:"Montserrat",sans-serif;
+		color: white;
+		text-decoration: none;
+	}
+	.nav-links a{
+		color: white;
+		text-decoration:none;
+
+	}
+
+	.nav-links h4{
+		list-style:none;
+	}
